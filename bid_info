@@ -230,3 +230,112 @@ https://u.magento.com/certification/directory/index/?q=&country_id=BG&region_id=
 
 wordfence-waf.php
 40A2E9729EEF
+
+
+
+http://dot5design.com.au/ : lion, video, revolution slider
+http://bestresumes.biz/ : revolution slider
+http://gidimall.com/ : flatastic
+http://whitneyport.com : maple
+http://winezombie.com/ video
+http://www.goinflow.com/ sigh up
+http://zroofing.com/ : revolution slider, sigh up
+http://timesproperty.ca/ : redlab-framework
+http://www.housemax.com/
+http://frozenpeaz.com/ : parallax
+http://www.fortwaynestrengthandconditioning.com/
+
+
+http://bestresumes.biz/
+http://gidimall.com/
+http://whitneyport.com 
+http://winezombie.com/
+http://www.fortwaynestrengthandconditioning.com/
+
+http://www.callbigmike.com/: speed
+
+
+http://lampylink.com/
+http://salgoce.com/  : speed
+http://www.miamimuscleusa.com/
+
+http://hal.chrisalexander.net/
+http://almonttravel.co.uk/
+https://scheidungsinfo.at/
+
+woocommerce
+https://www.vicemode.com/
+http://tutinitots.com/
+http://www.stussy.com/
+http://www.highburyvintners.co.uk/
+https://campustrading.com.au/
+
+
+html/css
+
+bootsrtap:
+http://freshartcreations.com/salemnhplowing.com/
+http://masterbuilderstraining.org/ : filter, bootstrap, 
+http://makeshopmade.com/Salon/5000/
+
+one page
+http://www.toasteddigital.com/
+
+good website :
+
+http://metajive.com/
+http://www.lestudio-rouen.com
+
+magento 1.x:
+
+https://www.ciaracode.com/
+http://www.gorjana.com/
+https://www.hellomollyfashion.com/ 
+http://www.gorjana.com/
+https://www.gaddibuddy.com/
+https://www.kaoticaeyeball.com/
+http://www.foto24.com/ : multi
+http://gagediamonds.com/
+http://www.odabash.com/
+https://domainindustries.com/
+https://buyanypart.co.uk/ : b2b
+http://www.yaposhka.kh.ua/ : ux, ui
+
+magento 2.x:
+
+https://hotshotsdrones.com/ : parallex, responsive
+https://combuyit.com/
+
+
+https://www.accommodationcalendar.com/ : calender
+skype : 
+ming.zhi3
+qnrrmrtjd.
+
+I need a function for admin to select the quantity (4-10) of columns and name each columns from edit page.
+nshkmob_insert_after_paragraph
+nshk_insert_after_paragraph_three
+
+NS_Desktop_300x250_sideBTF
+
+https://goo.gl/EuKQMC
+
+ Did you test the checkout to make sure it working?
+I can't solve the issues related to server.
+example : ajax call hours, other site's script  Dominance/discipline, Sadism,  BDSM
+
+
+bootstrap
+
+updated twittercart plugin for wordpress 4.8
+
+twittercart-pro-master/includes/functions.php
+line 121 : you can see the code
+wp_enqueue_script( 'tc_vendor', TC_PLUGIN_URL . 'assets/js/vendor.js' );
+I added it in this file.
+
+And 
+
+twittercart-pro-master/assets/js/vendor.js
+line 787 : remove "//" in 
+//tcGetTimeline();
